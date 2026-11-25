@@ -1,5 +1,5 @@
 // Backend API address
-const API_URL = "https://student-managment-system-8xg6.onrender.com/students";
+const API_URL = "https://rpicstsoriats.onrender.com/students";
 
 // null = adding a new student, a number = editing that roll
 let editingRoll = null;
