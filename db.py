@@ -7,7 +7,7 @@ from sqlalchemy.orm import sessionmaker, declarative_base
 # MySQL server address. Format: mysql+pymysql://USERNAME:PASSWORD@HOST:PORT
 # XAMPP: username is root and the password is empty
 # SERVER_URL = "mysql+pymysql://root:root@localhost:3306/alchemyBD"
-SERVER_URL = "postgresql+psycopg2://mysoriat_user:rwct9uCufI7UeLDO7FE7LxW44ac5tYQy@dpg-dc36grp5efls73avr4a0-a.oregon-postgres.render.com/mysoriat"
+SERVER_URL = "postgresql+psycopg2://hello_mm7l_user:3XK7VbPHSmd1RKOFnu1ZwCu53meheQF2@dpg-dc36q03rjlhs73evobg0-a.oregon-postgres.render.com/hello_mm7l"
 
 
 
